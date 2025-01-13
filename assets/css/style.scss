@@ -14,3 +14,10 @@ h1 {
     line-height: 46px;
     font-weight: 700;
 }
+.markdown-body hr {
+  height: 0;
+}
+.markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre {
+   font-family: "Open Sans";
+  font-size: 16px;
+}
