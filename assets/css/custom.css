@@ -125,3 +125,43 @@
 #nasbox .subjects .subject-card ul li a:hover {
     text-decoration: underline;
 }
+
+
+table {
+    border-spacing: 0;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-collapse: collapse;
+    }
+    
+    table th, table td {
+    padding: 5px;
+    border: 1px solid #dddddd;
+    text-align: left;
+    vertical-align: top;
+    }
+    
+    table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    }
+    
+    table td {
+    font-size: 14px;
+    line-height: 1.6;
+    }
+    
+    /* Responsive Design */
+    @media (max-width: 600px) {
+    table {
+        width: 100%;
+    }
+    
+    table th, table td {
+        font-size: 12px;
+        padding: 8px;
+    }
+    }
+    

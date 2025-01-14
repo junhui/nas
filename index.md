@@ -1,16 +1,7 @@
 ---
 layout: default
-title: Index
+title: NAS
 ---
-
-# Index Page
-
-Welcome to the index of all pages.
-
-## Pages
-{% for page in site.pages %}
-- [{{ page.title }}]({{ page.url | relative_url }})
-{% endfor %}
 
 <div id="nasbox">
     <h1>Help with Synology DS923+</h1>
@@ -29,15 +20,15 @@ Welcome to the index of all pages.
         <h2>Read all tips here</h2>
         <div class="tip-card">
             <div>
-                <img src="image-49.png" alt="How do you transfer drives from your old Synology NAS?">
+                <img src="image-51.png" alt="How do you transfer drives from your old Synology NAS?">
                 <a href="/nas/What-is-NAS.html">What is a NAS and Why Use a NAS?</a>
             </div>
             <div>
-                <img src="image-49.png" alt="How do you install your Synology NAS?">
+                <img src="image-52.png" alt="How do you install your Synology NAS?">
                 <a href="/nas/NAS-CloudStorage.html">NAS vs. Cloud Storage</a>
             </div>
             <div>
-                <img src="image-49.png" alt="How do you install your Synology NAS?">
+                <img src="image-53.png" alt="How do you install your Synology NAS?">
                 <a href="/nas/ChoosingtheRightNASforYourNeeds.html">Choosing the Right NAS for Your Needs</a>
             </div>
         </div>
