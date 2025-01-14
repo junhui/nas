@@ -13,9 +13,9 @@ Welcome to the index of all pages.
 {% endfor %}
 
 <div id="nasbox">
-    <h1>Help with your product</h1>
+    <h1>Help with Synology DS923+</h1>
     <div class="product-info">
-        <img src="nas-image.jpg" alt="Synology DS923+">
+        <img src="image-50.png" alt="Synology DS923+">
         <div class="details">
             <strong>Synology DS923+</strong><br>
             <span>Number of hard drive slots: 4</span><br>
@@ -24,6 +24,7 @@ Welcome to the index of all pages.
             <a href="#">40 reviews</a>
         </div>
     </div>
+    <div class="description">Create a high-performance server and storage solution with the Synology DS923+. This NAS supports up to 4 hard drives, offering a total storage capacity of up to 108TB, allowing you to store hundreds of thousands of documents, analyses, and more on a reliable business server. Additionally, it features two M.2 slots to set up a fast cache memory, enabling quick access to your most-used files. Designed for teams of 10 or more users, the DS923+ is powered by the AMD Ryzen R1600 Dual-Core processor, delivering turbo speeds of up to 3.1GHz for seamless performance. With 4GB of RAM, you'll experience smooth multitasking with minimal slowdowns. Need more memory? The DS923+ supports up to 32GB of DDR4 RAM across two slots, providing an extra performance boost. This robust CPU and RAM combination makes the DS923+ ideal for 4K Plex streaming, ensuring you can enjoy your favorite movies and shows in cinema-quality resolution. Like all Synology NAS models, the DS923+ integrates with Synology Drive Server, allowing you to manage and edit your storage from any connected device.</div>
     <div class="tips">
         <h2>Read all tips here</h2>
         <div class="tip-card">
@@ -41,6 +42,7 @@ Welcome to the index of all pages.
             </div>
         </div>
     </div>
+    <h2>Subjects</h2>
     <div class="subjects">
         <div class="subject-card">
             <img src="image-47.png" alt="Help with use">

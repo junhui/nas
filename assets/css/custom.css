@@ -3,7 +3,9 @@
         max-width: 80rem;
     }
 }
-
+.ht-container {
+    max-width: 1500px;
+}
 #nasbox {
     font-family: Arial, sans-serif;
     margin: 20px auto;
