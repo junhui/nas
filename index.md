@@ -20,11 +20,11 @@ title: NAS
         <h2>Read all tips here</h2>
         <div class="tip-card">
             <div>
-                <img src="image-51.png" alt="How do you transfer drives from your old Synology NAS?">
+                <img src="image-55.png" alt="How do you transfer drives from your old Synology NAS?">
                 <a href="/nas/What-is-NAS.html">What is a NAS and Why Use a NAS?</a>
             </div>
             <div>
-                <img src="image-52.png" alt="How do you install your Synology NAS?">
+                <img src="image-54.png" alt="How do you install your Synology NAS?">
                 <a href="/nas/NAS-CloudStorage.html">NAS vs. Cloud Storage</a>
             </div>
             <div>
