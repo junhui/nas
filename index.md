@@ -28,22 +28,22 @@ Welcome to the index of all pages.
         <h2>Read all tips here</h2>
         <div class="tip-card">
             <div>
-                <img src="tip1.jpg" alt="How do you transfer drives from your old Synology NAS?">
+                <img src="image-49.png" alt="How do you transfer drives from your old Synology NAS?">
                 <a href="/nas/What-is-NAS.html">What is a NAS and Why Use a NAS?</a>
             </div>
             <div>
-                <img src="tip2.jpg" alt="How do you install your Synology NAS?">
+                <img src="image-49.png" alt="How do you install your Synology NAS?">
                 <a href="/nas/NAS-CloudStorage.html">NAS vs. Cloud Storage</a>
             </div>
             <div>
-                <img src="tip2.jpg" alt="How do you install your Synology NAS?">
+                <img src="image-49.png" alt="How do you install your Synology NAS?">
                 <a href="/nas/ChoosingtheRightNASforYourNeeds.html">Choosing the Right NAS for Your Needs</a>
             </div>
         </div>
     </div>
     <div class="subjects">
         <div class="subject-card">
-            <img src="help-use.jpg" alt="Help with use">
+            <img src="image-47.png" alt="Help with use">
             <h3>Help with use</h3>
             <ul>
                 <li><a href="/nas/HowtoTransferHardDrivesBetweenSynologyNASDevices.html">How to Transfer Hard Drives Between Synology NAS Devices</a></li>
@@ -52,7 +52,7 @@ Welcome to the index of all pages.
             </ul>
         </div>
         <div class="subject-card">
-            <img src="help-install.jpg" alt="Help with installation">
+            <img src="image-48.png" alt="Help with installation">
             <h3>Help with installation</h3>
             <ul>
                 <li><a href="/nas/HowtoInstallYourSynologyNAS.html">How to Install Your Synology NAS</a></li>
@@ -62,7 +62,7 @@ Welcome to the index of all pages.
             </ul>
         </div>
         <div class="subject-card">
-            <img src="help-problems.jpg" alt="Help with problems">
+            <img src="image-49.png" alt="Help with problems">
             <h3>Help with problems</h3>
             <ul>
                 <li><a href="/nas/How-to-reset-your-Synology-NAS.html">How to Reset Your Synology NAS</a></li>
