@@ -1,3 +1,7 @@
+---
+title: How to Transfer Hard Drives Between Synology NAS Devices
+---
+
 # How to Transfer Hard Drives Between Synology NAS Devices
 
 Transferring hard drives from one Synology NAS to another involves more than simply moving the disks. Compatibility checks, backups, and proper setup are essential to ensure a smooth transition. Follow these steps to migrate your drives effectively.

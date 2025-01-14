@@ -1,5 +1,5 @@
 ---
-title:Installing Plex on Your Synology NAS
+title: Installing Plex on Your Synology NAS
 ---
 
 # Installing Plex on Your Synology NAS
