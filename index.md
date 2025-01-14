@@ -12,38 +12,63 @@ Welcome to the index of all pages.
 - [{{ page.title }}]({{ page.url | relative_url }})
 {% endfor %}
 
+<div id="nasbox">
+    <h1>Help with your product</h1>
+    <div class="product-info">
+        <img src="nas-image.jpg" alt="Synology DS923+">
+        <div class="details">
+            <strong>Synology DS923+</strong><br>
+            <span>Number of hard drive slots: 4</span><br>
+            <span>Suitable for hard drive size: 3.5-inch HDD, M.2 NVMe</span><br>
+            <span>Internal RAM: 4 GB</span><br>
+            <a href="#">40 reviews</a>
+        </div>
+    </div>
 
-<div class="container">
-    <h1>Subjects</h1>
+    <div class="tips">
+        <h2>Read all tips here</h2>
+        <div class="tip-card">
+            <div>
+                <img src="tip1.jpg" alt="How do you transfer drives from your old Synology NAS?">
+                <a href="/nas/What-is-NAS.html">What is a NAS and Why Use a NAS?</a>
+            </div>
+            <div>
+                <img src="tip2.jpg" alt="How do you install your Synology NAS?">
+                <a href="/nas/NAS-CloudStorage.html">NAS vs. Cloud Storage</a>
+            </div>
+            <div>
+                <img src="tip2.jpg" alt="How do you install your Synology NAS?">
+                <a href="/nas/ChoosingtheRightNASforYourNeeds.html">Choosing the Right NAS for Your Needs</a>
+            </div>
+        </div>
+    </div>
+
     <div class="subjects">
         <div class="subject-card">
-            <img src="image1.jpg" alt="Synology NAS help with use">
-            <h2>Help with use</h2>
+            <img src="help-use.jpg" alt="Help with use">
+            <h3>Help with use</h3>
             <ul>
-                <li><a href="#">How do you transfer drives from your old Synology NAS?</a></li>
-                <li><a href="#">How do you make your Synology NAS externally accessible?</a></li>
-                <li><a href="#">Advice on streaming media with your NAS</a></li>
-                <li><a href="#">How do you create a shared folder on your Synology?</a></li>
-                <li><a href="#">How do you transfer data to your Synology NAS from Windows?</a></li>
+                <li><a href="/nas/HowtoTransferHardDrivesBetweenSynologyNASDevices.html">How to Transfer Hard Drives Between Synology NAS Devices</a></li>
+                <li><a href="/nas/AccessingYourSynologyNASExternallyviaQuickConnect.html">Accessing Your Synology NAS Externally via QuickConnect</a></li>
+                <li><a href="/nas/StreamingMediawithYourNAS.html">Streaming Media with Your NAS</a></li>
             </ul>
         </div>
         <div class="subject-card">
-            <img src="image2.jpg" alt="Synology NAS help with installation">
-            <h2>Help with installation</h2>
+            <img src="help-install.jpg" alt="Help with installation">
+            <h3>Help with installation</h3>
             <ul>
-                <li><a href="#">How do you install your Synology NAS?</a></li>
-                <li><a href="#">How do you install Plex on your Synology NAS?</a></li>
-                <li><a href="#">How do you set up Synology Drive Server?</a></li>
-                <li><a href="#">How do you make IP camera recordings with your Synology NAS?</a></li>
+                <li><a href="/nas/HowtoInstallYourSynologyNAS.html">How to Install Your Synology NAS</a></li>
+                <li><a href="/nas/InstallingPlexonYourSynologyNAS.html">Installing Plex on Your Synology NAS</a></li>
+                <li><a href="/nas/SettingUpSynologyDriveServer.html">Setting Up Synology Drive Server</a></li>
+                <li><a href="/nas/RecordingIPCameraFootagewithYourSynologyNAS.html">Recording IP Camera Footage with Your Synology NAS</a></li>
             </ul>
         </div>
         <div class="subject-card">
-            <img src="image3.jpg" alt="Synology NAS help with problems">
-            <h2>Help with problems</h2>
+            <img src="help-problems.jpg" alt="Help with problems">
+            <h3>Help with problems</h3>
             <ul>
-                <li><a href="#">How do you reset your Synology NAS?</a></li>
-                <li><a href="#">How do I change the RAID setup on my Synology NAS?</a></li>
-                <li><a href="#">How do you transfer files from macOS to your Synology NAS?</a></li>
+                <li><a href="/nas/How-to-reset-your-Synology-NAS.html">How to Reset Your Synology NAS</a></li>
+                <li><a href="/nas/AdjustingtheRAIDSetuponYourSynologyNAS.html">Adjusting the RAID Setup on Your Synology NAS</a></li>
             </ul>
         </div>
     </div>
