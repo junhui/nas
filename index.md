@@ -24,7 +24,6 @@ Welcome to the index of all pages.
             <a href="#">40 reviews</a>
         </div>
     </div>
-
     <div class="tips">
         <h2>Read all tips here</h2>
         <div class="tip-card">
@@ -42,7 +41,6 @@ Welcome to the index of all pages.
             </div>
         </div>
     </div>
-
     <div class="subjects">
         <div class="subject-card">
             <img src="help-use.jpg" alt="Help with use">
