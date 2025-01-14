@@ -61,7 +61,7 @@
 }
 
 #nasbox .tips .tip-card img {
-    width: 48%;
+    width: 300px;
     height: auto;
     border-radius: 8px;
 }
@@ -87,7 +87,7 @@
 
 #nasbox .subjects .subject-card {
     flex: 1;
-    min-width: 300px;
+    min-width: 200px;
     background-color: #f1f1f1;
     border-radius: 8px;
     overflow: hidden;
